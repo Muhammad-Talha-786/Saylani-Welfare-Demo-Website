@@ -3,10 +3,29 @@
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-img{
+#facebook{
     width: 18px;
     height: 18px;
+    margin-left: 15px;
+}
+#twitter{
+    width: 18px;
+    height: 18px;
+    margin-left: 15px;
+}
+#whatsapp{
+    width: 18px;
+    height: 18px;
+    margin-left: 15px;
+}
+#instagram{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+}
+#youtube{
+    width: 20px;
+    height: 20px;
     margin-left: 15px;
 }
 button{
