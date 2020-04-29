@@ -67,11 +67,13 @@ button{
 .navbar-toggler{
     height: 50px;
     right: 20px;
-    left: 200px;
-   
+    left: 200px;  
 }
-
 #navbarSupportedContent{
     position: relative;
     left: 200px;
+}
+#marquee{
+    background-color: #316DC3;
+    color: white;
 }
