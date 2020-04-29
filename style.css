@@ -1,0 +1,50 @@
+#header{
+    background-color:#316DC3;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 18px;
+    height: 18px;
+    margin-left: 15px;
+}
+button{
+    font-size: 12px;
+    color: green;
+    height: 28px;
+}
+#logo{
+    width: 300px;
+    height: 80px;
+}
+/* a:hover{
+    background-color: #316DC3;
+} */
+#Home:hover{
+    background-color: #316DC3;
+    color: white;
+}
+#navbarDropdown:hover{
+    background-color: #316DC3;
+    color: white;
+}
+#navbarDropdown{
+    color: black;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+  
+.dropdown>.dropdown-toggle:active {
+    /Without this, clicking will make it sticky/
+      pointer-events: none;
+}
+.navbar-toggler{
+    height: 50px;
+}
+
+#navbarSupportedContent{
+    position: relative;
+    left: 200px;
+}
