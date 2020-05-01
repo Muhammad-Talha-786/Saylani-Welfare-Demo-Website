@@ -108,7 +108,10 @@ button{
 .name{
     font-size: 18px;
 }
-
+.one{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 /* gallery css */
 .hovereffect {
     width:100%;
